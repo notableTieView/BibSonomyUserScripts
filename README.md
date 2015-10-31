@@ -1,2 +1,2 @@
 # BibSonomyUserScripts
-UserScripts (Greasmonkey, Tampermonkey, ...) I like to use on BibSonomy
+UserScripts (Greasmonkey, Tampermonkey, ...) to tweak the user interface of BibSonomy
