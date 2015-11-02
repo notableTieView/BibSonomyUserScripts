@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        BibSonomy BibTeX Link
 // @namespace   notableTieView
-// @description adds a quicklink for BibTeX Export to the main menu
+// @description Insert a Link to the BibTeX of the publications shown in a publication list into the main menu. When a BibSonomy page contains a list of publications, a link is appended to the main menu. The link's target is the BibTeX mass export of all publications in the list.
 // @include     http://www.bibsonomy.org/
 // @include     http://www.bibsonomy.org/*
 // @version     1
